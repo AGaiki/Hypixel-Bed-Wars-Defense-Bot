@@ -14,7 +14,7 @@ To install, open up Command Prompt and type in the following command:
  4. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.**
 
 # Installation / Building - Node.JS Edition
-Make sure you have at least Node.js 12.16.3 LTS installed from [Nodejs.org](https://nodejs.org/en/). If you are using macOS or a Linux distribution, you can install the appropriate versions of Node.js. For the purposes of these tutorial, we will assume you are using Windows 10. The commands are more or less the same, so no matter what OS you have, you should be able to run it successfully. After you have installed Python, you need to install [discord.js](https://discord.js.org/#/). 
+Make sure you have at least Node.js 12.16.3 LTS installed from [Nodejs.org](https://nodejs.org/en/). If you are using macOS or a Linux distribution, you can install the appropriate versions of Node.js. For the purposes of these tutorial, we will assume you are using Windows 10. The commands are more or less the same, so no matter what OS you have, you should be able to run it successfully. After you have installed Node.js, you need to install [discord.js](https://discord.js.org/#/). 
 
 To install, open up Command Prompt and type in the following command: ``npm install discord.js``. It may show you some warnings, but that is not really an issue in this case. Running that command gives you support for Discord-specific commands that are present in the code. After you've installed the dependencies needed, you should be good to go! Follow these steps:
 
