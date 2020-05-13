@@ -9,8 +9,7 @@ Make sure you have at least Python 3.8 installed from either [Python.org](https:
  2. On the very last line of the bot.py file, you need to edit the "TOKEN" field with your Discord bot token. You can find the instructions on how to do so [here](https://discordpy.readthedocs.io/en/latest/discord.html).
  3. Finally, open up Command Prompt and navigate to your bot.py. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
  `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your bot.py file, type in: `python bot.py`(if you changed the filename from bot.py to something else, change the bot to the correct filename).
- 4. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **REMEMBER: KEEP YOUR COMMAND PROMPT WINDOW**
+ 4. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE2NTUxMTAsLTE0MDU4NTM4NzJdfQ
-==
+eyJoaXN0b3J5IjpbMTg3NDM2Nzk0NCwtMTQwNTg1Mzg3Ml19
 -->
