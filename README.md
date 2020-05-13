@@ -22,9 +22,9 @@ To install, open up Command Prompt and type in the following command: ``npm inst
  2. On the very last line of the bot.js file, you need to edit the "TOKEN" field with your Discord bot token. You can find the instructions on how to do so [here](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token).
  3. Finally, open up Command Prompt and navigate to your bot.jy. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
  `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your bot.py file, type in: `node bot.js`(if you changed the filename from bot.py to something else, change the bot to the correct filename).
- 4. Success! You have configured a bot properly! Good job! Feel free to play around with the JavaScript syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason, keep your computer 
+ 4. Success! You have configured a bot properly! Good job! Feel free to play around with the JavaScript syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason fulfill these requirements, you can follow [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot) to host your bot on Repl.it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY3MDY2ODcsLTc4Nzk2NDcyNCwtNz
+eyJoaXN0b3J5IjpbLTE5NzM1MDM0NTcsLTc4Nzk2NDcyNCwtNz
 UyMzc4MDAzLDY2NDQyNzEwMywxODc0MzY3OTQ0LC0xNDA1ODUz
 ODcyXX0=
 -->
