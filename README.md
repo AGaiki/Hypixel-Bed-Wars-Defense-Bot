@@ -8,7 +8,9 @@ Make sure you have at least Python 3.8 installed from either [Python.org](https:
  1. Download the latest bot.py from Releases. You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using bot.py as your filename. Using your favorite code editor (Visual Studio Code, Notepad ++, Notepad?), make sure to customize the bot.py commands and responses to your heart's content, as the version from the Releases page is a template you need to edit.
  2. On the very last line of the bot.py file, you need to edit the "TOKEN" field with your Discord bot token. You can find the instructions on how to do so [here](https://discordpy.readthedocs.io/en/latest/discord.html).
  3. Finally, open up Command Prompt and navigate to your bot.py. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
- `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your bot.py file, type in: `python bot.py`(if you changed the fi.
+ `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your bot.py file, type in: `python bot.py`(if you changed the filename from bot.py to something else, change the bot to the correct filename).
+ 4. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **REMEMBER: KEEP YOUR COMMAND PROMPT WINDOW**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NjczMDY0LC0xNDA1ODUzODcyXX0=
+eyJoaXN0b3J5IjpbLTE5MDE2NTUxMTAsLTE0MDU4NTM4NzJdfQ
+==
 -->
